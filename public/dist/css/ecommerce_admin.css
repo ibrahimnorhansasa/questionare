@@ -1,0 +1,25 @@
+body{
+   font-family:sans-serif;
+     direction: rtl;
+  
+    background-color:#fdfaf7;
+  
+}
+.navbar{
+    background-color: #ededed;
+}
+th{
+    text-align: center;
+}
+.navbar .nav-item{
+    font-family: fantasy;
+    font-size: 25px;
+    padding: 0px 10px;
+
+}
+.navbar .nav-item .nav-link,.navbar .nav-item .nav-link:hover{
+        color: rgb(164, 105, 24)
+}
+.modal-content .close{
+    margin: -1rem auto -1rem -1rem;
+}

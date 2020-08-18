@@ -1,0 +1,44 @@
+body{
+    background-color: #f1f0ec;
+}
+.bg-light {
+    background-color: #fdfdfd !important;
+}
+
+.nav-link {
+    font-size: 20px;
+
+}
+
+input,
+select {
+    background: -webkit-gradient(linear, left top, left 25, from(#ffffff), color-stop(4%, #eef2f5), to(#ffffff));
+    background: -moz-gradient(linear, left top, left 25, from(#ffffff), color-stop(4%, #eef2f5), to(#ffffff));
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 8px;
+    -moz-box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 8px;
+    -webkit-box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 8px;
+    outline: 0;
+}
+.subject{
+    margin: auto;
+    border: 1px solid #d2d8dc;
+    background-color: #fbf7fb;
+    margin-top: 10px;
+    border-radius: 25px;
+    padding-bottom: 30px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 8px;
+}
+.create_answer{
+    margin: auto;
+}
+.form-subject{
+    margin: auto;
+    width: 60%;
+    
+}
+.accordion>.card:not(:last-of-type) {
+    border-bottom:1px solid rgba(0,0,0,.125); 
+     border-bottom-right-radius: .25rem; 
+     border-bottom-left-radius: .25rem; 
+}
+
